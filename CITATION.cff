@@ -3,7 +3,8 @@ message: "If you use this software, please cite it as below."
 title: "Breathing k-means with Delaunay Neighbours"
 version: 1.0.0
 license: MIT
-repository-code: "https://github.com/barunkrpaul/breathing-kmeans-delaunay"
+repository-code: https://github.com/barunkrpaul/Breathing-kMeans-Delaunay
+doi: 10.5281/zenodo.24116820
 authors:
   - family-names: Paul
     given-names: "Barun Kr."
