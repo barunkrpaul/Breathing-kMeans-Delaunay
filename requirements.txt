@@ -1,0 +1,9 @@
+numpy
+scipy
+pandas
+numba
+scikit-learn
+matplotlib
+threadpoolctl
+bkmeans==1.3
+dnak-kmeans @ git+https://github.com/barunkrpaul/dnak-kmeans@v1.1.0

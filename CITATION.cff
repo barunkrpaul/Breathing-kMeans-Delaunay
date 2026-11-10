@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Breathing k-means with Delaunay Neighbours"
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/barunkrpaul/breathing-kmeans-delaunay"
+authors:
+  - family-names: Paul
+    given-names: "Barun Kr."
+  - family-names: Giri
+    given-names: Kinsuk
