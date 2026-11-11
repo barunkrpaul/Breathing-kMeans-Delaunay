@@ -1,0 +1,1581 @@
+{
+ "lloyd1982": {
+  "doi": "10.1109/TIT.1982.1056489",
+  "author": [
+   {
+    "given": "S.",
+    "family": "Lloyd",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "Least squares quantization in PCM",
+  "container-title": "IEEE Transactions on Information Theory",
+  "volume": "28",
+  "issue": "2",
+  "page": "129-137",
+  "issued": {
+   "date-parts": [
+    [
+     1982,
+     3
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     1982,
+     3
+    ]
+   ]
+  },
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "DOI": "10.1109/tit.1982.1056489",
+  "type": "journal-article"
+ },
+ "ikotun2023": {
+  "doi": "10.1016/j.ins.2022.11.139",
+  "author": [
+   {
+    "given": "Abiodun M.",
+    "family": "Ikotun",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Absalom E.",
+    "family": "Ezugwu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Laith",
+    "family": "Abualigah",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Belal",
+    "family": "Abuhaija",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jia",
+    "family": "Heming",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "K-means clustering algorithms: A comprehensive review, variants analysis, and advances in the era of big data",
+  "container-title": "Information Sciences",
+  "volume": "622",
+  "page": "178-210",
+  "issued": {
+   "date-parts": [
+    [
+     2023,
+     4
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2023,
+     4
+    ]
+   ]
+  },
+  "publisher": "Elsevier BV",
+  "DOI": "10.1016/j.ins.2022.11.139",
+  "type": "journal-article"
+ },
+ "arthur2007": {
+  "doi": "10.5555/1283383.1283494",
+  "error": 404
+ },
+ "franti2019": {
+  "doi": "10.1016/j.patcog.2019.04.014",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-9554-2827",
+    "authenticated-orcid": false,
+    "given": "Pasi",
+    "family": "Fr\u00e4nti",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Sami",
+    "family": "Sieranoja",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "How much can k-means be improved by using better initialization and repeats?",
+  "container-title": "Pattern Recognition",
+  "volume": "93",
+  "page": "95-112",
+  "issued": {
+   "date-parts": [
+    [
+     2019,
+     9
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2019,
+     9
+    ]
+   ]
+  },
+  "publisher": "Elsevier BV",
+  "DOI": "10.1016/j.patcog.2019.04.014",
+  "type": "journal-article"
+ },
+ "franti2018": {
+  "doi": "10.1186/s40537-018-0122-y",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-9554-2827",
+    "authenticated-orcid": false,
+    "given": "Pasi",
+    "family": "Fr\u00e4nti",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "Efficiency of random swap clustering",
+  "container-title": "Journal of Big Data",
+  "volume": "5",
+  "issue": "1",
+  "article-number": "13",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     3,
+     21
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2018,
+     3,
+     21
+    ]
+   ]
+  },
+  "publisher": "Springer Science and Business Media LLC",
+  "DOI": "10.1186/s40537-018-0122-y",
+  "type": "journal-article"
+ },
+ "ismkhan2018": {
+  "doi": "10.1016/j.patcog.2018.02.015",
+  "author": [
+   {
+    "given": "Hassan",
+    "family": "Ismkhan",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "I-k-means\u2212+: An iterative clustering algorithm based on an enhanced version of the k-means",
+  "container-title": "Pattern Recognition",
+  "volume": "79",
+  "page": "402-413",
+  "issued": {
+   "date-parts": [
+    [
+     2018,
+     7
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2018,
+     7
+    ]
+   ]
+  },
+  "publisher": "Elsevier BV",
+  "DOI": "10.1016/j.patcog.2018.02.015",
+  "type": "journal-article"
+ },
+ "capo2022": {
+  "doi": "10.1109/TKDE.2020.3002926",
+  "author": [
+   {
+    "given": "Marco",
+    "family": "Capo",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Aritz",
+    "family": "Perez",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jose A. Antonio",
+    "family": "Lozano",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "An efficient Split-Merge re-start for the K-means algorithm",
+  "container-title": "IEEE Transactions on Knowledge and Data Engineering",
+  "page": "1-1",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "DOI": "10.1109/tkde.2020.3002926",
+  "type": "journal-article"
+ },
+ "fritzke2020": {
+  "doi": "10.48550/arXiv.2006.15666",
+  "author": [
+   {
+    "family": "Fritzke",
+    "given": "Bernd"
+   }
+  ],
+  "title": "Breathing K-Means: Superior K-Means Solutions through Dynamic K-Values",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "publisher": "arXiv",
+  "DOI": "10.48550/ARXIV.2006.15666",
+  "type": "article"
+ },
+ "conrads2024": {
+  "doi": "10.4230/LIPIcs.SEA.2024.7",
+  "author": [
+   {
+    "family": "Conrads",
+    "given": "Theo"
+   },
+   {
+    "family": "Drexler",
+    "given": "Lukas"
+   },
+   {
+    "family": "K\u00f6nen",
+    "given": "Joshua"
+   },
+   {
+    "family": "Schmidt",
+    "given": "Daniel R."
+   },
+   {
+    "family": "Schmidt",
+    "given": "Melanie"
+   }
+  ],
+  "title": "Local Search k-means++ with Foresight",
+  "container-title": "LIPIcs, Volume 301, SEA 2024",
+  "volume": "301",
+  "page": "7:1-7:20",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "publisher": "Schloss Dagstuhl \u2013 Leibniz-Zentrum f\u00fcr Informatik",
+  "DOI": "10.4230/LIPICS.SEA.2024.7",
+  "type": ""
+ },
+ "beretta2023": {
+  "doi": "10.52202/075280-1135",
+  "author": [
+   {
+    "given": "Lorenzo",
+    "family": "Beretta",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Vincent",
+    "family": "Cohen-Addad",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Silvio",
+    "family": "Lattanzi",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Nikos",
+    "family": "Parotsidis",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "Multi-Swap k-Means++",
+  "container-title": "Advances in Neural Information Processing Systems 36",
+  "page": "26069-26091",
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "publisher": "Neural Information Processing Systems Foundation, Inc. (NeurIPS)",
+  "DOI": "10.52202/075280-1135",
+  "type": "proceedings-article"
+ },
+ "huang2023": {
+  "doi": "10.52202/075280-1978",
+  "author": [
+   {
+    "given": "Junyu",
+    "family": "Huang",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Qilong",
+    "family": "Feng",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Ziyun",
+    "family": "Huang",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jinhui",
+    "family": "Xu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Jianxin",
+    "family": "Wang",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "Linear Time Algorithms for k-means with Multi-Swap Local Search",
+  "container-title": "Advances in Neural Information Processing Systems 36",
+  "page": "45651-45680",
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "publisher": "Neural Information Processing Systems Foundation, Inc. (NeurIPS)",
+  "DOI": "10.52202/075280-1978",
+  "type": "proceedings-article"
+ },
+ "jiang2025": {
+  "doi": "10.48550/arXiv.2504.03513",
+  "author": [
+   {
+    "family": "Jiang",
+    "given": "Shaofeng H. -C."
+   },
+   {
+    "family": "Jin",
+    "given": "Yaonan"
+   },
+   {
+    "family": "Lou",
+    "given": "Jianing"
+   },
+   {
+    "family": "Lu",
+    "given": "Pinyan"
+   }
+  ],
+  "title": "Local Search for Clustering in Almost-linear Time",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "publisher": "arXiv",
+  "DOI": "10.48550/ARXIV.2504.03513",
+  "type": "article"
+ },
+ "hong2025": {
+  "doi": "10.1109/TKDE.2025.3616858",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0009-0003-3098-4012",
+    "authenticated-orcid": false,
+    "given": "Jiazhen",
+    "family": "Hong",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Electrical and Computer Engineering, Rutgers University, New Brunswick, NJ, USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-4997-604X",
+    "authenticated-orcid": false,
+    "given": "Wei",
+    "family": "Qian",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Operations Research and Information Engineering, Cornell University, Ithaca, NY, USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-6416-5635",
+    "authenticated-orcid": false,
+    "given": "Yudong",
+    "family": "Chen",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Sciences, University of Wisconsin-Madison, Madison, WI, USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0001-6080-9125",
+    "authenticated-orcid": false,
+    "given": "Yuqian",
+    "family": "Zhang",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Electrical and Computer Engineering, Rutgers University, New Brunswick, NJ, USA"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "A Geometric Approach to $k$k-Means Clustering",
+  "container-title": "IEEE Transactions on Knowledge and Data Engineering",
+  "volume": "38",
+  "issue": "3",
+  "page": "1442-1453",
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     3
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2026,
+     3
+    ]
+   ]
+  },
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "DOI": "10.1109/tkde.2025.3616858",
+  "type": "journal-article"
+ },
+ "carriere2025": {
+  "doi": "10.48550/arXiv.2506.21291",
+  "author": [
+   {
+    "family": "Carri\u00e8re",
+    "given": "Guillaume"
+   },
+   {
+    "family": "Cazals",
+    "given": "Fr\u00e9d\u00e9ric"
+   }
+  ],
+  "title": "Improved seeding strategies for k-means and k-GMM",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "publisher": "arXiv",
+  "DOI": "10.48550/ARXIV.2506.21291",
+  "type": "article"
+ },
+ "vardakas2024": {
+  "doi": "10.1007/s10489-024-05636-2",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-1352-2062",
+    "authenticated-orcid": false,
+    "given": "Georgios",
+    "family": "Vardakas",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0003-3170-5428",
+    "authenticated-orcid": false,
+    "given": "Aristidis",
+    "family": "Likas",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "Global k-means++: an effective relaxation of the global k-means clustering algorithm",
+  "container-title": "Applied Intelligence",
+  "volume": "54",
+  "issue": "19",
+  "page": "8876-8888",
+  "issued": {
+   "date-parts": [
+    [
+     2024,
+     7,
+     5
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2024,
+     7,
+     5
+    ]
+   ]
+  },
+  "publisher": "Springer Science and Business Media LLC",
+  "DOI": "10.1007/s10489-024-05636-2",
+  "type": "journal-article"
+ },
+ "hamerly2010": {
+  "doi": "10.1137/1.9781611972801.12",
+  "author": [
+   {
+    "given": "Greg",
+    "family": "Hamerly",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Computer Science, Baylor University"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "Making\n                    <i>k</i>\n                    -means even faster",
+  "container-title": "Proceedings of the 2010 SIAM International Conference on Data Mining",
+  "page": "130-140",
+  "issued": {
+   "date-parts": [
+    [
+     2010,
+     4,
+     29
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2010,
+     4,
+     29
+    ]
+   ]
+  },
+  "publisher": "Society for Industrial and Applied Mathematics",
+  "DOI": "10.1137/1.9781611972801.12",
+  "type": "proceedings-article"
+ },
+ "newling2016": {
+  "doi": "10.48550/arXiv.1602.02514",
+  "author": [
+   {
+    "family": "Newling",
+    "given": "James"
+   },
+   {
+    "family": "Fleuret",
+    "given": "Fran\u00e7ois"
+   }
+  ],
+  "title": "Fast K-Means with Accurate Bounds",
+  "container-title": "arXiv",
+  "issued": {
+   "date-parts": [
+    [
+     2016
+    ]
+   ]
+  },
+  "publisher": "arXiv",
+  "DOI": "10.48550/ARXIV.1602.02514",
+  "type": "article-journal"
+ },
+ "xia2022": {
+  "doi": "10.1109/TPAMI.2020.3008694",
+  "author": [
+   {
+    "given": "Shuyin",
+    "family": "Xia",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Daowan",
+    "family": "Peng",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Deyu",
+    "family": "Meng",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Changqing",
+    "family": "Zhang",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Guoyin",
+    "family": "Wang",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Elisabeth",
+    "family": "Giem",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Wei",
+    "family": "Wei",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Zizhong",
+    "family": "Chen",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "A Fast Adaptive k-means with No Bounds",
+  "container-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "page": "1-1",
+  "issued": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2020
+    ]
+   ]
+  },
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "DOI": "10.1109/tpami.2020.3008694",
+  "type": "journal-article"
+ },
+ "sharma2026": {
+  "doi": "10.1007/s10994-025-06891-1",
+  "author": [
+   {
+    "given": "Parichit",
+    "family": "Sharma",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Marcin",
+    "family": "Malec",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Hasan",
+    "family": "Kurban",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Oguzhan",
+    "family": "Kulekci",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Mehmet",
+    "family": "Dalkilic",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "Geometric-k-means: a bound free approach to fast and eco-friendly k-means",
+  "container-title": "Machine Learning",
+  "volume": "115",
+  "issue": "2",
+  "article-number": "30",
+  "issued": {
+   "date-parts": [
+    [
+     2026,
+     1,
+     27
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2026,
+     1,
+     27
+    ]
+   ]
+  },
+  "publisher": "Springer Science and Business Media LLC",
+  "DOI": "10.1007/s10994-025-06891-1",
+  "type": "journal-article"
+ },
+ "lang2023": {
+  "doi": "10.1007/978-3-031-46994-7_13",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0003-3212-5548",
+    "authenticated-orcid": false,
+    "given": "Andreas",
+    "family": "Lang",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0001-9143-4880",
+    "authenticated-orcid": false,
+    "given": "Erich",
+    "family": "Schubert",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "title": "Accelerating k-Means Clustering with\u00a0Cover Trees",
+  "container-title": "Lecture Notes in Computer Science",
+  "page": "148-162",
+  "issued": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2023
+    ]
+   ]
+  },
+  "publisher": "Springer Nature Switzerland",
+  "DOI": "10.1007/978-3-031-46994-7_13",
+  "type": "book-chapter"
+ },
+ "ji2024": {
+  "doi": "10.48550/arXiv.2412.02244",
+  "author": [
+   {
+    "family": "Ji",
+    "given": "Yushuai"
+   },
+   {
+    "family": "Liu",
+    "given": "Zepeng"
+   },
+   {
+    "family": "Wang",
+    "given": "Sheng"
+   },
+   {
+    "family": "Sun",
+    "given": "Yuan"
+   },
+   {
+    "family": "Peng",
+    "given": "Zhiyong"
+   }
+  ],
+  "title": "On Simplifying Large-Scale Spatial Vectors: Fast, Memory-Efficient, and Cost-Predictable k-means",
+  "issued": {
+   "date-parts": [
+    [
+     2024
+    ]
+   ]
+  },
+  "publisher": "arXiv",
+  "DOI": "10.48550/ARXIV.2412.02244",
+  "type": "article"
+ },
+ "kanungo2002": {
+  "doi": "10.1109/TPAMI.2002.1017616",
+  "author": [
+   {
+    "given": "T.",
+    "family": "Kanungo",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "D.M.",
+    "family": "Mount",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "N.S.",
+    "family": "Netanyahu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "C.D.",
+    "family": "Piatko",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "R.",
+    "family": "Silverman",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "A.Y.",
+    "family": "Wu",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "An efficient k-means clustering algorithm: analysis and implementation",
+  "container-title": "IEEE Transactions on Pattern Analysis and Machine Intelligence",
+  "volume": "24",
+  "issue": "7",
+  "page": "881-892",
+  "issued": {
+   "date-parts": [
+    [
+     2002,
+     7
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2002,
+     7
+    ]
+   ]
+  },
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "DOI": "10.1109/tpami.2002.1017616",
+  "type": "journal-article"
+ },
+ "pelleg1999": {
+  "doi": "10.1145/312129.312248",
+  "author": [
+   {
+    "given": "Dan",
+    "family": "Pelleg",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "School of Computer Science, Carnegie Mellon University"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Andrew",
+    "family": "Moore",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "School of Computer Science, Carnegie Mellon University"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "Accelerating exact\n                    <i>k</i>\n                    -means algorithms with geometric reasoning",
+  "container-title": "Proceedings of the fifth ACM SIGKDD international conference on Knowledge discovery and data mining",
+  "page": "277-281",
+  "issued": {
+   "date-parts": [
+    [
+     1999,
+     8
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     1999,
+     8
+    ]
+   ]
+  },
+  "publisher": "ACM",
+  "DOI": "10.1145/312129.312248",
+  "type": "proceedings-article"
+ },
+ "kwedlo2021": {
+  "doi": "10.1109/ACCESS.2021.3080821",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-5040-2302",
+    "authenticated-orcid": false,
+    "given": "Wojciech",
+    "family": "Kwedlo",
+    "sequence": "first",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-8907-5505",
+    "authenticated-orcid": false,
+    "given": "Michal",
+    "family": "Lubowicz",
+    "sequence": "additional",
+    "affiliation": [],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "title": "Accelerated K-Means Algorithms for Low-Dimensional Data on Parallel Shared-Memory Systems",
+  "container-title": "IEEE Access",
+  "volume": "9",
+  "page": "74286-74301",
+  "issued": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2021
+    ]
+   ]
+  },
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "DOI": "10.1109/access.2021.3080821",
+  "type": "journal-article"
+ },
+ "corominas2025": {
+  "doi": "10.1109/ACCESS.2025.3561293",
+  "author": [
+   {
+    "ORCID": "https://orcid.org/0000-0002-3863-2017",
+    "authenticated-orcid": false,
+    "given": "Guillem",
+    "family": "Rodr\u00edguez Corominas",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Department of Computer Science, Universitat Polit&#x00E8;cnica de Catalunya (UPC), Barcelona, Spain"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "given": "Maria J.",
+    "family": "Blesa",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Department of Computer Science, Universitat Polit&#x00E8;cnica de Catalunya (UPC), Barcelona, Spain"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   },
+   {
+    "ORCID": "https://orcid.org/0000-0002-1736-3559",
+    "authenticated-orcid": false,
+    "given": "Christian",
+    "family": "Blum",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Artificial Intelligence Research Institute (IIIA-CSIC), Bellaterra, Spain"
+     }
+    ],
+    "role": [
+     {
+      "role": "author",
+      "vocabulary": "crossref"
+     }
+    ]
+   }
+  ],
+  "title": "Accelerating the k-Means++ Algorithm by Using Geometric Information",
+  "container-title": "IEEE Access",
+  "volume": "13",
+  "page": "67693-67717",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "publisher": "Institute of Electrical and Electronics Engineers (IEEE)",
+  "DOI": "10.1109/access.2025.3561293",
+  "type": "journal-article"
+ },
+ "spalding2025": {
+  "doi": "10.48550/arXiv.2502.06163",
+  "author": [
+   {
+    "family": "Spalding-Jamieson",
+    "given": "Jack"
+   },
+   {
+    "family": "Robson",
+    "given": "Eliot Wong"
+   },
+   {
+    "family": "Zheng",
+    "given": "Da Wei"
+   }
+  ],
+  "title": "Scalable k-Means Clustering for Large k via Seeded Approximate Nearest-Neighbor Search",
+  "issued": {
+   "date-parts": [
+    [
+     2025
+    ]
+   ]
+  },
+  "publisher": "arXiv",
+  "DOI": "10.48550/ARXIV.2502.06163",
+  "type": "article"
+ },
+ "aurenhammer1991": {
+  "doi": "10.1145/116873.116880",
+  "author": [
+   {
+    "given": "Franz",
+    "family": "Aurenhammer",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Technische Univ. Graz, Schiebbstattgasse, Austria"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "Voronoi diagrams\u2014a survey of a fundamental geometric data structure",
+  "container-title": "ACM Computing Surveys",
+  "volume": "23",
+  "issue": "3",
+  "page": "345-405",
+  "issued": {
+   "date-parts": [
+    [
+     1991,
+     9
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     1991,
+     9
+    ]
+   ]
+  },
+  "publisher": "Association for Computing Machinery (ACM)",
+  "DOI": "10.1145/116873.116880",
+  "type": "journal-article"
+ },
+ "barber1996": {
+  "doi": "10.1145/235815.235821",
+  "author": [
+   {
+    "given": "C. Bradford",
+    "family": "Barber",
+    "sequence": "first",
+    "affiliation": [
+     {
+      "name": "Univ. of Minnesota, Minneapolis"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "David P.",
+    "family": "Dobkin",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Princeton Univ., Princeton, NJ"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   },
+   {
+    "given": "Hannu",
+    "family": "Huhdanpaa",
+    "sequence": "additional",
+    "affiliation": [
+     {
+      "name": "Configured Energy Systems, Inc., Plymouth, MN"
+     }
+    ],
+    "role": [
+     {
+      "vocabulary": "crossref",
+      "role": "author"
+     }
+    ]
+   }
+  ],
+  "title": "The quickhull algorithm for convex hulls",
+  "container-title": "ACM Transactions on Mathematical Software",
+  "volume": "22",
+  "issue": "4",
+  "page": "469-483",
+  "issued": {
+   "date-parts": [
+    [
+     1996,
+     12
+    ]
+   ]
+  },
+  "published": {
+   "date-parts": [
+    [
+     1996,
+     12
+    ]
+   ]
+  },
+  "publisher": "Association for Computing Machinery (ACM)",
+  "DOI": "10.1145/235815.235821",
+  "type": "journal-article"
+ }
+}

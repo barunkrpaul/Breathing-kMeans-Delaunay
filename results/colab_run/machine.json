@@ -1,0 +1,11 @@
+{
+ "python": "3.13.18",
+ "numpy": "2.4.6",
+ "scipy": "1.16.3",
+ "numba": "0.64.0",
+ "sklearn": "1.6.1",
+ "cpu": "Model name:                              Intel(R) Xeon(R) CPU @ 2.20GHz",
+ "cores": 2,
+ "mem": "Mem:              12           1           8           0           3          11",
+ "platform": "Linux-6.6.159+-x86_64-with-glibc2.39"
+}
